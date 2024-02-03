@@ -11,9 +11,9 @@ public class HashSetExample1 {
         set.add("Raj");
         set.add("Anubhav");
 //        ******######### printing object using forEach method #########*********
-        set.forEach((String str)->{
-            System.out.println(str);
-        });
+//        set.forEach((String str)->{
+//            System.out.println(str);
+//        });
 
 //        *********########## printing using forEach Loop. ######************
         for (String s:set) {
